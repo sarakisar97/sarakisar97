@@ -18,8 +18,8 @@ With a passion for mobile technology and a knack for clean, efficient code, I ha
 
 I'm always open to discussing new projects, opportunities, or partnerships. Feel free to connect with me through the following channels:
 
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/sara-kisar-3a3b1018b/)](#)
-- **GitHub**: [[Your GitHub Profile](https://github.com/sarakisar97)](#)
+- **LinkedIn**: [[My LinkedIn Profile](https://www.linkedin.com/in/sara-kisar-3a3b1018b/)](#)
+- **GitHub**: [[My GitHub Profile](https://github.com/sarakisar97)](#)
 - **Email**: `sarakisar@hotmail.com`
 
 Thank you for visiting my portfolio. I look forward to the possibility of collaborating and bringing innovative ideas to life with Flutter!
